@@ -1,6 +1,6 @@
 # <%= package.name %>
 
-[![Codeship Status for sytac/gulp-commonjs-tasks](https://codeship.com/projects/fbd845d0-42d7-0133-683e-1e375ee071eb/status?branch=master)](https://codeship.com/projects/103903)
+[![Codeship Status for sytac/gulp-commonjs-tasks](https://codeship.com/projects/69dc7400-53c5-0133-1404-76919038d6b2/status?branch=master)](https://codeship.com/projects/103903)
 
 ## Description
 
