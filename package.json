@@ -4,7 +4,7 @@
   "description": "Captures console and restores it at a later moment.",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "gulp test"
   },
   "author": "JP Wesselink <jpwesselink@gmail.com>",
   "license": "MIT",
